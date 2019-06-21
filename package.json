@@ -21,9 +21,6 @@
   },
   "dependencies": {
     "active-window": "^0.1.0",
-    "brightness": "^3.0.0",
-    "get-pixels": "^3.3.2",
-    "image-luminosity": "^0.1.1",
-    "screenshot-desktop": "^1.8.0"
+    "brightness": "^3.0.0"
   }
 }
